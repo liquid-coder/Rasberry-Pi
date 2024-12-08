@@ -1,4 +1,4 @@
-<h1> Components Used </h1>
+<h1> Components Used --> </h1>
 
 <h3> Rasberry Pi Model 4 </h3>  
 <h3> Jumper Wire </h3>
