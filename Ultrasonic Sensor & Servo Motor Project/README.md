@@ -14,5 +14,5 @@ of the objects and control the servo motor to move the deflector arm accordingly
 <h3> Servo Motor </h3>
 <h3> Ultrasonic Sensor (HC-SR04) </h3>
 
-
+<h2> Video --></h2>
 https://github.com/user-attachments/assets/c34b7809-8b3f-4618-8505-a2db88ca32d0
